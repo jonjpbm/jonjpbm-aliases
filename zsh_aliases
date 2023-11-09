@@ -1,0 +1,3 @@
+alias simd='date +%Y%m%d%H%M'
+alias cls='clear'
+alias rep='/Users/jonduarte/repo'
